@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function () {
     <button id="popup-close" style="position: absolute; top: 10px; right: 10px; font-size: 18px; background: none; border: none; cursor: pointer;">✖</button>
     <h2 style="font-size: 18px; margin-bottom: 10px;">🎙️ Découvrez notre outil vocal !</h2>
     <p style="margin-bottom: 15px;">Testez notre assistant vocal interactif pour une expérience inédite.</p>
-    <elevenlabs-convai agent-id="lrlluI50KDXyFTccRXwv"></elevenlabs-convai>
+    <elevenlabs-convai agent-id="vAVWpiIxaI6uJPpPzRy4"></elevenlabs-convai>
   `;
 
   // ✅ Ajout du popup à l'overlay
